@@ -6,4 +6,9 @@ Alessandro Mazzi
 Thy-Diep("Yip") Ta  
 Kat Miroshnikova  
 Sam Arn  
-Michael Healy
+Michael Healy   
+Petra Ujvari
+
+# Discussion
+Sharing about Github Transparency  
+Merry Christmas
