@@ -1,5 +1,5 @@
 # Meeting 35
-24th Dec 2020(Thursday)
+24th Dec 2020, Thursday
 
 # Attendees
 Alessandro Mazzi    
