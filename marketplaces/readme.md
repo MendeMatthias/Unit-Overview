@@ -4,8 +4,46 @@ Info regarding our marketplace platforms connecting providers and customers
 # Marketplace Platform
 ArtFind  
 BikeFind  
+BoatFind  
+BurnFind  
 CarsFind  
-DevFind
+CleanFind  
+CoachFind  
+CorFind  
+DailyToken   
+DesignLook  
+DevFind  
+ESportFind  
+EatFind  
+EventFind   
+FarmFind  
+FashionCircle   
+FilmGram      
+HairFind  
+HandyFix  
+HealthLook   
+HouseLook  
+InstaParty  
+InstaToken  
+JuiceFind  
+LearnFind  
+LegalBook  
+LocalTour  
+ModelFind  
+SalesFind  
+SDGBook  
+SoundFind   
+SportsFind  
+TokenFind  
+TopService  
+TrashClean  
+VRGram  
+VideoPho   
+WatchFind  
+WellFind  
+YogaFind  
+YouthBook  
+YYToken   
 
 # Key Features
 Search  
