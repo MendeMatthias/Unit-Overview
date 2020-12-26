@@ -53,6 +53,6 @@ Wallet
 Profile 
 
 # Service Fees
-20% under $1,000
-10% under $10,000
-5% over $10,000
+20% under $1,000  
+10% under $10,000    
+5% over $10,000    
