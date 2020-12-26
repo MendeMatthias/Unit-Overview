@@ -9,6 +9,6 @@ Tuesday
 Thursday 
 
 # Local Meetings
-Monday
-Wednesday
+Monday  
+Wednesday  
 Friday  
