@@ -1,18 +1,37 @@
-# Unit 
-Here are notes on the Unit platform.   
+# Unit Core Product & Platform Notes
+1-Search  
+2-Chats    
+3-Teams      
+4-Wallet    
+5-Profile  
 
-# Core Product
-Search  
-Chats  
-Teams    
-Wallet  
-Profile
+## 1-Search Feature
+List of providers    
+
+## 2-Chats Feature
+List of Chats & Contacts   
+
+## 3-Team Feature
+Invite Link     
+Posts   
 
 
-# Admin Product
-Marketplaces  
-Communities  
-Tokens  
+# Wallet Feature
+Wallet
+Transfer
+Exchange
+Wallet History
+Explore Tokens
+
+## Explore Token
+
+
+
+
+# Profile Feature
+
+
+
 
 # Marketplaces Admin
 Overview - Marketplaces and details    
