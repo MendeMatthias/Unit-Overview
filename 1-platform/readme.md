@@ -11,18 +11,18 @@
 ### 4.3-Exchange
 ### 4.3-Wallet History
 ### 4.5-Explore Token
-#### 4.5.1 - Indiv Token
-#### 4.5.1.1 Treasury
-#### 4.5.1.2 Community
-#### 4.5.1.3 Pairs
-#### 4.5.1.4 Stores(/store?store_id) - Create a list of products which can be sold      
-#### 4.5.1.5 Poll(/poll?poll_id) - Pool/Vote using tokens           
-#### 4.5.1.6 Contest(/contest?contest_id) - Allowing prizes to be posted, and awarded  
-#### 4.5.1.7 Events(/event?contest_id) - Events & Unconferences  
 ## 5-Profile Feature(/profile?u=)
-### 5.1 Info
-### 5.2 Interview
-### 5.3 Gallery
-### 5.4 Reviews
+### 5.1-Info
+### 5.2-Interview
+### 5.3-Gallery
+### 5.4-Reviews
 ## 6-Marketplaces(/marketplaces)
 ## 7-Masters Dashboard
+## 8-Indiv Token
+### 8.1-Treasury
+### 8.2 Community
+### 8.3-Pairs
+### 8.4 Stores(/store?store_id) - Create a list of products     
+### 8.5 Poll(/poll?poll_id) - Pool/Vote using tokens           
+### 8.6 Contest(/contest?contest_id) - Allowing prizes to be posted, and awarded  
+### 8.7 Events(/event?contest_id) - Events & Unconferences  
