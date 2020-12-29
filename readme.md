@@ -5,11 +5,11 @@ Please read [whitepaper](https://www.unit.ventures/whitepaper) for more.
 
 # Core Product
 [Overview](https://github.com/unit-network/Unit-Core/tree/main/product) - Marketplaces and details  
-[Search](https://github.com/unit-network/Unit-Core/tree/main/product#search)  
-[Chats](https://github.com/unit-network/Unit-Core/tree/main/product#chat)  
-[Teams](https://github.com/unit-network/Unit-Core/tree/main/product#teams)    
-[Wallet](https://github.com/unit-network/Unit-Core/tree/main/product#wallet)  
-[Profile](https://github.com/unit-network/Unit-Core/tree/main/product#profile)
+[Search](https://github.com/unit-network/Unit-Core/tree/main/product#search) - Finding Providers   
+[Chats](https://github.com/unit-network/Unit-Core/tree/main/product#chat)  - Communication   
+[Teams](https://github.com/unit-network/Unit-Core/tree/main/product#teams) -  Building Agency   
+[Wallet](https://github.com/unit-network/Unit-Core/tree/main/product#wallet)  - Portfolio, Payment, Transfer  
+[Profile](https://github.com/unit-network/Unit-Core/tree/main/product#profile) - User profile
 
 # Marketplaces
 [Overview](https://github.com/unit-network/Unit-Core/tree/main/marketplaces) - Marketplaces and details    
@@ -19,7 +19,7 @@ Please read [whitepaper](https://www.unit.ventures/whitepaper) for more.
 # Communities
 [Overview](https://github.com/unit-network/Unit-Core/tree/main/communities) - Focused markets & cities     
 [Events](https://github.com/unit-network/Unit-Core/tree/main/communities#events) - Events & Unconferences    
-[Masters](https://github.com/unit-network/Unit-Core/tree/main/communities#masters) - 6 week Program 
+[Masters](https://github.com/unit-network/Unit-Core/tree/main/communities#masters) -  Program 
 
 
 # Tokens
@@ -29,7 +29,7 @@ Please read [whitepaper](https://www.unit.ventures/whitepaper) for more.
 
 
 # Contributing
-Please follow the [Unit Principles & Guidelines]() 
+Please follow the [Unit Principles & Guidelines](https://github.com/unit-network/Unit-Core) 
 
 # Governance
- This project adheres to the [Unit Ethics]() 
+ This project adheres to the [Unit Ethics](https://github.com/unit-network/Unit-Core) 
