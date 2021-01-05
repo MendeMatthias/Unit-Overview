@@ -1,7 +1,7 @@
 # Unit Masters
 
 
-# Live Speaker Sessions
+# Live Speaker Sessions Batch 1 
 1 Ryan Allis  
 2 Constantin Malik   
 3 Daniel P Harris  
@@ -16,7 +16,9 @@
 12 Yousuf Al Mulla  
 [Youtube Link](https://www.youtube.com/unitglobal/videos)
   
-  
+# Live Speaker Sessions Batch 2
+ 
+ 
   
 # Batches  
 2020 batch size<br>
@@ -53,3 +55,7 @@ Batch 21 - May 30,000,000<br>
 Batch 22 - July 40,000,000<br>
 Batch 23 - Sept 50,000,000<br>
 Batch 24 - Nov 100,000,000
+
+
+
+# Masters FAQ<br>
