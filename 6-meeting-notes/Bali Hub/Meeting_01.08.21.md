@@ -1,12 +1,12 @@
-#Unit Team Meeting
-Location: Bali City Hub 
-Date: Jan 8th
+# Unit Team Meeting  
+Location: Bali City Hub  
+Date: Jan 8th  
 
-# Attendees
-Joe R
-Maira
-Kat M
-Michael H
+# Attendees  
+Joe R  
+Maira  
+Kat M  
+Michael H  
 
 # Discussion
 
