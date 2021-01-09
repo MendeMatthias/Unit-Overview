@@ -3,8 +3,8 @@
 
 # Timeline 
 March 2020 -  World Community Forum  
-May 2020 - Global Unit Conference   
-May 2020 - Unit at WEF Singapore
+May 2020 - World Unit Forum   
+May 2020 - Unit@WEF(Singapore)
 July 2020 - World Token Forum
 
 # Cities
