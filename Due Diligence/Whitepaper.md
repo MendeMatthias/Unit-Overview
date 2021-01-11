@@ -225,14 +225,29 @@ Our roadmap has several different parts. We are focused on continually building 
  
 >May 2020  
 Global Unconference to Launch Project and Application  
+>
 September 2020  
 Launch UNIT Chain on Polkadot - core data level of blockchain for UNIT tokens  
+>
 November 2020
-Launch of UNIT Master’s Program, launch of UNIT and parachains for each app tokens
+Launch of UNIT Master’s Program, launch of UNIT and parachains for each app tokens  
+>
 January 2021
-Launch of Unit Masters's Program 2
+Launch of Unit Masters's Program 2  
+>
 February 2021
-Launch of UNIT HQ Bali – Parq    
+Launch of UNIT HQ Bali – Parq   
+Start of UNIT Community Village in Bali
+>
+March 26th
+World Community Forum (WCF 1)  
+>
+May 28th
+World Unit Forum  (WUF 1)
+>
+July 7th 
+World Token Forum (WTF 1)
+>
 August 2021  
 Launch Parachains for Tokens for 200 UNIT Cities  
  
