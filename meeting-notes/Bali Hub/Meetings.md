@@ -2,6 +2,23 @@ _______________________________________________________________________
 
 # Unit Team Meeting  
 Location: Bali City Hub  
+Date: Jan 18th
+
+# Attendees
+Mayra   
+Joe  
+Ryan  
+Kat  
+Michael   
+Elena
+
+# Themes discussed: 
+Fundrazing, Technology Updates, Social Impact & Local Communitties buildup, Token Economy Case Studies, Unit Village Updates
+
+_______________________________________________________________________
+
+# Unit Team Meeting  
+Location: Bali City Hub  
 Date: Jan 15th
 
 # Attendees
